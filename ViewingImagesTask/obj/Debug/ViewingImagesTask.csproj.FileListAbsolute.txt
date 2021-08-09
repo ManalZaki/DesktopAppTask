@@ -1,0 +1,15 @@
+C:\Users\Manal\Desktop\eFileTask\ViewingImagesTask\ViewingImagesTask\bin\Debug\ViewingImagesTask.exe.config
+C:\Users\Manal\Desktop\eFileTask\ViewingImagesTask\ViewingImagesTask\bin\Debug\ViewingImagesTask.exe
+C:\Users\Manal\Desktop\eFileTask\ViewingImagesTask\ViewingImagesTask\bin\Debug\ViewingImagesTask.pdb
+C:\Users\Manal\Desktop\eFileTask\ViewingImagesTask\ViewingImagesTask\obj\Debug\ViewingImagesTask.csprojAssemblyReference.cache
+C:\Users\Manal\Desktop\eFileTask\ViewingImagesTask\ViewingImagesTask\obj\Debug\ViewingImagesTask.Form1.resources
+C:\Users\Manal\Desktop\eFileTask\ViewingImagesTask\ViewingImagesTask\obj\Debug\ViewingImagesTask.Properties.Resources.resources
+C:\Users\Manal\Desktop\eFileTask\ViewingImagesTask\ViewingImagesTask\obj\Debug\ViewingImagesTask.csproj.GenerateResource.cache
+C:\Users\Manal\Desktop\eFileTask\ViewingImagesTask\ViewingImagesTask\obj\Debug\ViewingImagesTask.csproj.CoreCompileInputs.cache
+C:\Users\Manal\Desktop\eFileTask\ViewingImagesTask\ViewingImagesTask\obj\Debug\ViewingImagesTask.exe
+C:\Users\Manal\Desktop\eFileTask\ViewingImagesTask\ViewingImagesTask\obj\Debug\ViewingImagesTask.pdb
+C:\Users\Manal\Desktop\eFileTask\ViewingImagesTask\ViewingImagesTask\bin\Debug\EntityFramework.dll
+C:\Users\Manal\Desktop\eFileTask\ViewingImagesTask\ViewingImagesTask\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Manal\Desktop\eFileTask\ViewingImagesTask\ViewingImagesTask\bin\Debug\EntityFramework.xml
+C:\Users\Manal\Desktop\eFileTask\ViewingImagesTask\ViewingImagesTask\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Manal\Desktop\eFileTask\ViewingImagesTask\ViewingImagesTask\obj\Debug\ViewingImagesTask.csproj.CopyComplete
